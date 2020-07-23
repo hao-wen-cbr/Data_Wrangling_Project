@@ -4,7 +4,7 @@
 ## Introduction
 Airbnb is one of the most popular platform business in recent years and it facilitate exchange between producers and consumers. By merging Airbnb data and other city datasets, the end use of merged dataset is to examine the relationship between rent price and inner attributes and outer attributes. Inner attributes means the factors about apartment/house itself such as number of bedrooms or cancellation policy. Outer attributes means the environment around apartment/house such as transportation convenience or criminal rate and so on. This project use five datasets about New York City from different sources and merge them together to meet the end-use.
 
-## Main part in project
+## Main part of report
 1. Data sets, problem description and overall strategy
 
 2. Data description and data exploration
@@ -17,7 +17,7 @@ Airbnb is one of the most popular platform business in recent years and it facil
 
 6. Final dataset quality and significance
 
-## Main tasks include
+## Main tasks
 •	Merge 5 datasets from different sources with around 49,000 hotel records
 
 •	Perform data exploration, generate metadata and assess data quality to identify issues
